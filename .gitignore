@@ -1,0 +1,14 @@
+.classpath
+drop-desktop/bin
+drop-html/war
+drop/bin
+.gwt-log
+drop-android/bin
+org.eclipse.jdt.core.prefs
+.project
+drop-html/.settings/com.google.gwt.eclipse.core.prefs
+drop-html/gwt-unitCache/gwt-unitCache-000001436AD883FA
+drop-html/gwt-unitCache/gwt-unitCache-000001436AD9AF34
+drop-html/gwt-unitCache/gwt-unitCache-000001436AD9B9C6
+drop-html/gwt-unitCache/gwt-unitCache-000001436AD9B9F2
+drop-html/gwt-unitCache/gwt-unitCache-000001436AD9BD17
